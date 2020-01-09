@@ -1,0 +1,39 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+
+/* VARIABupdateLES */
+:root {
+    --main-bg-color: #101010;
+    --main-text-color: greenyellow;
+  }
+
+/* MAIN */
+body {
+    color: var(--main-text-color);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    background-color: var(--main-bg-color);
+    margin: 10px;
+}
+
+h1 {
+	color: var(--main-text-color);
+	font-family: 'IBM Plex Mono', monospace;
+	font-size: 10px;
+	letter-spacing: 8px;
+	background-color: var(--main-bg-color);
+	margin: 10px;
+ }
+
+ code {
+	font-family: menlo, inconsolata, monospace;
+	font-size: calc(1em - 2px);
+	color: var(--main-bg-color);
+	background-color: var(--main-text-color);
+	padding: 0.2em 0.4em;
+	border-radius: 2px;
+ }
+
+ a:link {
+	color: tomato;
+}

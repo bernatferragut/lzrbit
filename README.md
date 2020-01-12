@@ -36,7 +36,7 @@ Use the top right GUI parameters to mold your designs at will. Draw your design 
 
 **Save your design by clicking the SAVE button on the APP.**
 
-## FUTURE VERSIONS
+## Additions to future versions
 
 In future versions we want to add other sensors to drive the drawing app, like:
 

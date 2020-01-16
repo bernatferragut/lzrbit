@@ -1,0 +1,1 @@
+import{K as o}from"./index.be2fd1e8.js";function t(t,e){var i=e.delay,a=void 0===i?0:i,n=e.duration,d=void 0===n?400:n,r=e.easing,c=void 0===r?o:r,s=+getComputedStyle(t).opacity;return{delay:a,duration:d,easing:c,css:function(o){return"opacity: ".concat(o*s)}}}export{t as f};

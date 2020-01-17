@@ -24,15 +24,15 @@ Use Google Chrome as the Browser - BLE API - to make sure it will work.
 Go to the LZRBIT APP section
 Use the PAIR BUTTON to pair your microbit accelerometer witht the LZRBIT App.
 
-**Push key 'Q' to draw Lines**
+**. Push key 'Q' to draw Lines**
 
-**Push key 'W' to draw Points**
+**. Push key 'W' to draw Points**
 
-**Push SPACE bar to Reset**
+**. Push SPACE bar to Reset**
 
-**Use the microbit x,y,z axis to draw on the canvas by rotating them**
+**. Use the microbit x,y,z axis to draw on the canvas by rotating them**
 
-**Open the top right Controller Tab to have access to size and color control**
+**. Open the top right Controller Tab to have access to size and color control**
 
 Use the top right GUI parameters to mold your designs at will. Draw your design with patience and love.
 

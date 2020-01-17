@@ -7,6 +7,8 @@ Pieces of Art are created by using the microbit accelerometer BLE service - Blue
 # TRY IY ONLINE HERE
 https://laughing-albattani-4986da.netlify.com
 
+![6](https://user-images.githubusercontent.com/17754060/72579831-3dc1e580-38a8-11ea-8101-523e31efd9d4.png)
+
 ## How to use the LZRBIT?
 
 1.To use this Application you will need a microbit and the Chrome Browser.

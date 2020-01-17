@@ -32,7 +32,7 @@ Use the PAIR BUTTON to pair your microbit accelerometer witht the LZRBIT App.
 
 **. Use the microbit x,y,z axis to draw on the canvas by rotating them**
 
-**. Open the top right Controller Tab to have access to size and color control**
+**. Open the top right 'OPEN CONTROLS' Tab to have access to size and color control**
 
 Use the top right GUI parameters to mold your designs at will. Draw your design with patience and love.
 

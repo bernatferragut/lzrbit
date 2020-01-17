@@ -36,7 +36,7 @@ Use the PAIR BUTTON to pair your microbit accelerometer witht the LZRBIT App.
 
 Use the top right GUI parameters to mold your designs at will. Draw your design with patience and love.
 
-**Save your design by clicking the SAVE button on the APP.**
+**. Save your design by clicking the SAVE button on the APP.**
 
 ## Additions to future versions
 

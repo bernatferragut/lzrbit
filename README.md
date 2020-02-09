@@ -31,6 +31,8 @@ https://youthful-kepler-96ccd7.netlify.com/
 
 **10. Uncheck both, POINT and LINE, to reset the screen to the starting position.**
 
+https://youthful-kepler-96ccd7.netlify.com/
+
 ![UX-4](https://user-images.githubusercontent.com/17754060/74108499-f2b68d80-4b48-11ea-945a-b34cff667043.png)
 
 ## Future versions

@@ -26,6 +26,8 @@ Use Google Chrome as the Browser - BLE API - to make sure it will work.
 Go to the LZRBIT APP section
 Use the PAIR BUTTON to pair your microbit accelerometer witht the LZRBIT App.
 
+![UX-4](https://user-images.githubusercontent.com/17754060/74108499-f2b68d80-4b48-11ea-945a-b34cff667043.png)
+
 **. Use the microbit x,y,z axis to draw on the canvas by rotating them**
 
 **. Open the top right 'OPEN CONTROLS' Tab to have access to size and color control**

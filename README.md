@@ -11,38 +11,27 @@ https://youthful-kepler-96ccd7.netlify.com/
 
 ## How to use the LZRBIT?
 
-1.To use this Application you will need a microbit and the Chrome Browser.
+**1. Use ONLY with Google Chrome.**
 
-First you need to download and [upload this firmware](https://drive.google.com/uc?id=0B2Ud_NaMFsQSdm1BMVMtN3F4a3c&export=download) on your BBC micro:bit board.
+**2. Download this .hex file to your Microbit.**
 
-*The firmware was produced by bittysoftware.com*
+**3. Use the PAIR MICROBIT button for pairing devices.**
 
-2.Keep in mind that web bluetooth API are still experimental and your OS and browser might not support the feature.
+**4. The microbit ‘flat’ on one of both hands aligns to (x=0, y=0).**
 
-Use Google Chrome as the Browser - BLE API - to make sure it will work.
+**5. Use the CONTROLS PANEL at the top of the canvas to modify variables.**
 
-3.Once the firmware is uploaded to your microbit and you are using the Chrome Browser:
+**6. Press the POINT checkbox to draw points, and adjust its parameters.**
 
-Go to the LZRBIT APP section
-Use the PAIR BUTTON to pair your microbit accelerometer witht the LZRBIT App.
+**7. Press the LINE checkbox to draw lines, and adjust its parameters.**
+
+**8. Use the microbit x,y,z axis to draw on the canvas by rotating them.**
+
+**9. Use the ‘SAVE’ button to save your design.**
+
+**10. Uncheck both, POINT and LINE, to reset the screen to the starting position.**
 
 ![UX-4](https://user-images.githubusercontent.com/17754060/74108499-f2b68d80-4b48-11ea-945a-b34cff667043.png)
-
-**. Use the microbit x,y,z axis to draw on the canvas by rotating them**
-
-**. Open the top right 'OPEN CONTROLS' Tab to have access to size and color control**
-
-**. Press the Line checkbox to draw lines.**
-
-**. Press the Point checkbox to draw points.**
-
-**. Uncheck both to reset.**
-
-**. You can hide/show the 'Controls' by pressing 'h'**
-
-**. Draw your design with patience and love.**
-
-**. Save your design by clicking the 'SAVE' button on the APP.**
 
 ## Future versions
 

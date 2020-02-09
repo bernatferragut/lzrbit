@@ -5,7 +5,7 @@ LZRBIT is a drawing-app designed to create web-art using the BBC Microbit microc
 Pieces of Art are created by using the microbit accelerometer BLE service - Bluetooth Low Energy- paired with the browser.
 
 # TRY IY ONLINE HERE
-https://laughing-albattani-4986da.netlify.com
+https://youthful-kepler-96ccd7.netlify.com/
 
 ![6](https://user-images.githubusercontent.com/17754060/72579831-3dc1e580-38a8-11ea-8101-523e31efd9d4.png)
 
@@ -46,8 +46,6 @@ Use the PAIR BUTTON to pair your microbit accelerometer witht the LZRBIT App.
 
 In future versions we want to add other sensors to drive the drawing app, like:
 
-1.Web Gazer API - LZR movement through AI Eye Tracking
+1.Mobile Telephon Gyroscope Connection ( 2 Apps connected in Realtime )
 
-2.Web Face API - LZR movement through AI Facial Recognition
-
-3 NextMind API - A non invasive human brain interface (...)
+2 NextMind API - A non invasive human brain interface (...)

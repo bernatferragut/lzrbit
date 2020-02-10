@@ -7,7 +7,7 @@ Pieces of Art are created by using the microbit accelerometer BLE service - Blue
 # TRY IY ONLINE HERE
 https://youthful-kepler-96ccd7.netlify.com/
 
-![LZRBIT-PORTADA](https://user-images.githubusercontent.com/17754060/74108480-d286ce80-4b48-11ea-999e-c43be204c171.png)
+![LZRBIT-PORTADA](https://user-images.githubusercontent.com/17754060/74114515-8a7fa000-4b78-11ea-803d-82d5e218ddd3.png)
 
 ## How to use the LZRBIT?
 

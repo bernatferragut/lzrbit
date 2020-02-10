@@ -1,4 +1,4 @@
-# WHAT IS LZRBIT?
+# WHAT IS THE LZRBIT?
 
 LZRBIT is a drawing-app designed to create web-art using the BBC Microbit microcontroller.
 
